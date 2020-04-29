@@ -1,0 +1,16 @@
+C:\Users\Cade Brown\Desktop\bots\Discord bot\Discord bot\bin\Debug\netcoreapp3.0\Discord bot.exe
+C:\Users\Cade Brown\Desktop\bots\Discord bot\Discord bot\bin\Debug\netcoreapp3.0\Discord bot.deps.json
+C:\Users\Cade Brown\Desktop\bots\Discord bot\Discord bot\bin\Debug\netcoreapp3.0\Discord bot.runtimeconfig.json
+C:\Users\Cade Brown\Desktop\bots\Discord bot\Discord bot\bin\Debug\netcoreapp3.0\Discord bot.runtimeconfig.dev.json
+C:\Users\Cade Brown\Desktop\bots\Discord bot\Discord bot\bin\Debug\netcoreapp3.0\Discord bot.dll
+C:\Users\Cade Brown\Desktop\bots\Discord bot\Discord bot\bin\Debug\netcoreapp3.0\Discord bot.pdb
+C:\Users\Cade Brown\Desktop\bots\Discord bot\Discord bot\obj\Debug\netcoreapp3.0\Discord bot.csprojAssemblyReference.cache
+C:\Users\Cade Brown\Desktop\bots\Discord bot\Discord bot\obj\Debug\netcoreapp3.0\Discord bot.AssemblyInfoInputs.cache
+C:\Users\Cade Brown\Desktop\bots\Discord bot\Discord bot\obj\Debug\netcoreapp3.0\Discord bot.AssemblyInfo.cs
+C:\Users\Cade Brown\Desktop\bots\Discord bot\Discord bot\obj\Debug\netcoreapp3.0\Discord bot.dll
+C:\Users\Cade Brown\Desktop\bots\Discord bot\Discord bot\obj\Debug\netcoreapp3.0\Discord bot.pdb
+C:\Users\Cade Brown\Desktop\bots\Discord bot\Discord bot\bin\Debug\netcoreapp3.0\DSharpPlus.dll
+C:\Users\Cade Brown\Desktop\bots\Discord bot\Discord bot\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\Cade Brown\Desktop\bots\Discord bot\Discord bot\obj\Debug\netcoreapp3.0\Discord bot.csproj.CopyComplete
+C:\Users\Cade Brown\Desktop\bots\Discord bot\Discord bot\bin\Debug\netcoreapp3.0\DSharpPlus.CommandsNext.dll
+C:\Users\Cade Brown\Desktop\bots\Discord bot\Discord bot\bin\Debug\netcoreapp3.0\DSharpPlus.Interactivity.dll
